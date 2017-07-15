@@ -12,6 +12,7 @@ int main() {
   //if-else
   if( input > a ){
     cout << "Yeah!! input more than 100" << endl;
+    
   }
   else if( input == 100 ){
     cout << "Ok! input is 100" << endl;
