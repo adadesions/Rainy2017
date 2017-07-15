@@ -6,7 +6,7 @@ using namespace std;
 int main() {
   int year = 0;
   string era = "";
-  int type = -1;
+  
   cout << "Enter the year: ";
   cin >> year;
   cout << "Enter the Era: ";
