@@ -3,7 +3,7 @@
 using namespace std;
 
 int findMin( int data[], int size ){
-  int min = 10000000;
+  int min = 1000000;
   int index = 0;
   for(int i = 0; i < size; ++i){
     if(min >= data[i]){
